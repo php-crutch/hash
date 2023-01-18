@@ -1,0 +1,14 @@
+{
+  "name": "crutch/hash",
+  "type": "library",
+  "description": "hash interface",
+  "license": ["MIT"],
+  "require": {
+    "php": "^7.4 || ^8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Crutch\\Hash\\": "src/"
+    }
+  }
+}
